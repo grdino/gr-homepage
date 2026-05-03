@@ -267,7 +267,7 @@ h2 {
   font-size: 1rem;
 }
 
-.jbot-section {
+.gbot-section {
   margin-top: 1.9rem;
   display: flex;
   align-items: center;
@@ -275,14 +275,14 @@ h2 {
   gap: 1rem;
 }
 
-.jbot-link {
+.gbot-link {
   font-weight: 700;
   color: var(--muted);
   text-decoration-thickness: 2px;
   text-underline-offset: 3px;
 }
 
-.jbot-avatar {
+.gbot-avatar {
   width: 76px;
   height: 76px;
   object-fit: cover;
