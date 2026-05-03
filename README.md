@@ -1,13 +1,13 @@
-# Joselo SEO Homepage
+# GR SEO Homepage
 
-SEO-first static homepage for `joselo.net`.
+SEO-first static homepage for `gerryray.net`.
 
 Replace these asset files in `/assets/` before publishing:
 
-- `joselo-logo.png`
+- `gr-logo.png`
 - `ron-morgan-logo.png`
-- `joselo-portrait.jpg`
-- `jbot.png`
+- `gr-portrait.jpg`
+- `gbot.png`
 
 Includes:
 
